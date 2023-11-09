@@ -9,12 +9,16 @@
 
 ## 🌟 概要
 **Whisper v3 for Colab** は、 *Whisper v3* を活用し、Google Colab上で簡単に動画や音声ファイルをテキストに変換できるツールです。
+
 音声ファイル、若くはyoutubeのURLがあれば、手軽に文字起こしを行うことができます。
 
 ## 📖 使い方
 この黄色のボタンをクリックしてください！！
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Kewton/kewton.blog.colab/blob/master/whisper_v3_for_colab.ipynb)
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/gitpullpull/Whisper_v3_for_colab/blob/main/whisper_v3_for_colab.ipynb)
+
 colabのコードを順番に実行するだけでテキスト化ができます。
+
 mp3をテキスト化する場合→①②を実行してください
 
 youtubeの動画をテキスト化する場合①③を実行してください
