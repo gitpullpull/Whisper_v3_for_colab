@@ -12,6 +12,8 @@
 音声ファイル、若くはyoutubeのURLがあれば、手軽に文字起こしを行うことができます。
 
 ## 📖 使い方
+この黄色のボタンをクリックしてください！！
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Kewton/kewton.blog.colab/blob/master/whisper_v3_for_colab.ipynb)
 colabのコードを順番に実行するだけでテキスト化ができます。
 mp3をテキスト化する場合→①②を実行してください
 
