@@ -15,7 +15,7 @@
 ## 📖 使い方
 この黄色のボタンをクリックしてください！！
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/gitpullpull/Whisper_v3_for_colab/blob/main/whisper_v3_for_colab.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/gitpullpull/Whisper_v3_for_colab/blob/main/whisper_v3_for_colab.ipynb)
 
 colabのコードを順番に実行するだけでテキスト化ができます。
 
