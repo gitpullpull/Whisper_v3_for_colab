@@ -13,7 +13,7 @@
 音声ファイル、若くはyoutubeのURLがあれば、手軽に文字起こしを行うことができます。
 
 ## 📖 使い方
-この黄色のボタンをクリックしてください！！
+この青色のボタンをクリックしてください！！
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/gitpullpull/Whisper_v3_for_colab/blob/main/whisper_v3_for_colab.ipynb)
 
